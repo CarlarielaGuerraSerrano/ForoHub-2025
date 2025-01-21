@@ -1,8 +1,6 @@
 #  :man_technologist: :speaking_head: Foro Hub :busts_in_silhouette: :woman_technologist:
 
 Un foro es un lugar donde todos los participantes de una plataforma pueden colocar sus preguntas sobre determinados asuntos. 
-Aquí en Alura, los estudiantes utilizan el foro para resolver sus dudas sobre los cursos y proyectos en los que están participando. 
-Este lugar mágico está lleno de mucho aprendizaje y colaboración entre estudiantes, profesores y moderadores.
 
 En este proyecto vamos a replicar a nivel de back end este proceso, y para eso crearemos una API REST usando Spring.
 
