@@ -16,14 +16,14 @@ Nuestra API va a centrarse específicamente en los tópicos y debe permitir a lo
 
 :five: Eliminar un tópico
 
-# :bookmark_tabs: Es lo que conocemos comúnmente como CRUD (CREATE, READ, UPDATE, DELETE), usando un framework que va a facilitar mucho nuestro trabajo.
+:bookmark_tabs: Es lo que conocemos comúnmente como CRUD (CREATE, READ, UPDATE, DELETE), usando un framework que va a facilitar mucho nuestro trabajo.
 
-:pushpin: Al final de nuestro desarrollo tendremos una API REST con las siguientes funcionalidades
+:pushpin: Al final de nuestro desarrollo tendremos una API REST con las siguientes funcionalidades :
 
-API con rutas implementadas siguiendo las mejores prácticas del modelo REST;
+:pen: API con rutas implementadas siguiendo las mejores prácticas del modelo REST;
 
-Validaciones realizadas según reglas de negocio;
+:pen: Validaciones realizadas según reglas de negocio;
 
-Implementación de una base de datos para la persistencia de la información;
+:pen: Implementación de una base de datos para la persistencia de la información;
 
-Servicio de autenticación/autorización para restringir el acceso a la información.
+:pen: Servicio de autenticación/autorización para restringir el acceso a la información.
