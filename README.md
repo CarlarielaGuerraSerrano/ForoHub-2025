@@ -4,7 +4,7 @@ Un foro es un lugar donde todos los participantes de una plataforma pueden coloc
 
 En este proyecto vamos a replicar a nivel de back end este proceso y para eso crearemos una API REST usando Spring.
 
-Nuestra API va a centrarse específicamente en los tópicos y debe permitir a los usuarios:
+Nuestra API va a centrarse específicamente en los tópicos y debe permitir a los usuarios :
 
 :one: Crear un nuevo tópico
 
