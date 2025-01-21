@@ -2,9 +2,9 @@
 
 Un foro es un lugar donde todos los participantes de una plataforma pueden colocar sus preguntas sobre determinados asuntos. 
 
-En este proyecto vamos a replicar a nivel de back end este proceso, y para eso crearemos una API REST usando Spring.
+En este proyecto vamos a replicar a nivel de back end este proceso y para eso crearemos una API REST usando Spring.
 
-Nuestra API va a centrarse específicamente en los tópicos, y debe permitir a los usuarios:
+Nuestra API va a centrarse específicamente en los tópicos y debe permitir a los usuarios:
 
 :one: Crear un nuevo tópico
 
@@ -16,8 +16,7 @@ Nuestra API va a centrarse específicamente en los tópicos, y debe permitir a l
 
 :five: Eliminar un tópico
 
-
-:bookmark_tabs: Es lo que conocemos comúnmente como CRUD (CREATE, READ, UPDATE, DELETE), usando un framework que va a facilitar mucho nuestro trabajo.
+# :bookmark_tabs: Es lo que conocemos comúnmente como CRUD (CREATE, READ, UPDATE, DELETE), usando un framework que va a facilitar mucho nuestro trabajo.
 
 :pushpin: Al final de nuestro desarrollo tendremos una API REST con las siguientes funcionalidades
 
